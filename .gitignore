@@ -1,0 +1,8 @@
+# The pixel art lives in your copy of the pack, not here.
+/godot/assets/
+# Generated at build time from godot_build/escenas.json
+/godot/scenes/
+# Godot cache and import metadata
+.godot/
+*.uid
+.DS_Store
